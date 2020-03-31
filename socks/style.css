@@ -1,0 +1,23 @@
+#app {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#app .product-image img {
+    width: 240px;
+}
+
+#app .product-info {
+    padding: 0 0 0 36px;
+}
+
+#app .cart-panel {
+    display: flex;
+}
+
+.color-box {
+    width: 40px;
+    height: 40px; 
+    margin-top: 5px;
+}
